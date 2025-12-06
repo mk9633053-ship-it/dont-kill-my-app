@@ -1,6 +1,8 @@
 ---
 manufacturer: 
     - vivo
+    
+    y19
 
 ---
 
